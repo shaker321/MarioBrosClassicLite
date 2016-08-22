@@ -4,4 +4,12 @@ module.exports = {
   	filename: "./lib/bundle.js"
   },
   devtool: 'source-map',
+  module: {
+   loaders: [
+     {
+       test: /\.scss$/,
+       loaders: ["style", "css", "sass"]
+     }
+   ]
+ }
 };
