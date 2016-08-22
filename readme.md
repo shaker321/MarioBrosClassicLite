@@ -127,4 +127,4 @@ fallDown() {
 ```
 
 ## Future Features
-In the future, I would like to implement multiple levels, a score feature (currently with one level scoring doesn't make sense), a changing environment (floors moving when hit), and multi-step turtle killing (when hit a turtle flips at which point Mario must kick him).
+In the future, I would like to implement a high score feature, a changing environment (floors moving when hit), and multi-step turtle killing (when hit a turtle flips at which point Mario must kick him).
