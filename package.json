@@ -7,6 +7,9 @@
     "doc": "docs"
   },
   "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.13.2",
     "node-sass": "^3.8.0",
     "sass-loader": "^4.0.0",
     "webpack": "^1.13.2"
