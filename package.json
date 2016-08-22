@@ -1,0 +1,33 @@
+{
+  "name": "MarioBrosClassicLite",
+  "version": "1.0.0",
+  "description": "A browser game inspired by Mario Bros and built in JavaScript and the HTML Canvas API.",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaker321/MarioBrosClassic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaker321/MarioBrosClassic/issues"
+  },
+  "homepage": "https://github.com/shaker321/MarioBrosClassic#readme"
+}
