@@ -1,11 +1,11 @@
 # Mario Bros. Classic Lite
-![Logo](docs/logo.png)
+![Logo](images/logo.png)
 
 A browser game inspired by Mario Bros and built in JavaScript and the HTML Canvas API.
 
 ## How to Play
 
-![Instructions](docs/instructions.png)
+![Instructions](images/instructions.png)
 
 1. Use the left and right arrow keys to move Mario.
 2. Use the up arrow key to jump.
@@ -71,7 +71,7 @@ keyUpHandler(e) {
 ## Tricky Implementation
 A tricky feature to implement was Mario's interaction with the different floors that could be beneath him at any time. In order to deal with this, I made two functions in the Mario class: stopJump and fallDown.
 
-![Gameplay](docs/gameplay.png)
+![Gameplay](images/gameplay.png)
 
 ### StopJump  
 StopJump does exactly what it says (that's good naming convention for you!); it stops Mario's upwards motion based on his location.
