@@ -71,7 +71,7 @@ keyUpHandler(e) {
 ## Tricky Implementation
 A tricky feature to implement was Mario's interaction with the different floors that could be beneath him at any time. In order to deal with this, I made two functions in the Mario class: stopJump and fallDown.
 
-![Gameplay](images/gameplay.png)
+![Gameplay](images/game.png)
 
 ### StopJump  
 StopJump does exactly what it says (that's good naming convention for you!); it stops Mario's upwards motion based on his location.
